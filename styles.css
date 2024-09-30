@@ -74,6 +74,18 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+.hero-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
+
+.infographic, .company-logo {
+    max-width: 80%;
+    height: auto;
+    margin: 2rem auto;
+}
+
 footer {
     background-color: #333;
     color: #fff;
